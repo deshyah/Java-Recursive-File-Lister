@@ -3,7 +3,6 @@
 A desktop GUI application built in Java that recursively traverses local file system directories and lists all contained files and subfolders in real time.
 
 ## 📌 Overview
-
 This application demonstrates recursive algorithm design applied to file system navigation. Utilizing Java Swing and `JFileChooser`, users can select any target directory to initiate a depth-first recursive traversal that logs every folder and file path into a scrollable viewport.
 ---
 
